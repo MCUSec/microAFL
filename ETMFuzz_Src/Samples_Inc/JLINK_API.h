@@ -1,3 +1,6 @@
+/*************************************************************************************************************************************
+The following prototypes, types, defines have been taken from the SEGGER J-Link SDK with SEGGER's prior written consent.
+*************************************************************************************************************************************/
 #ifndef JLINK_API_H            //  Avoid multiple inclusion
 #define JLINK_API_H
 
