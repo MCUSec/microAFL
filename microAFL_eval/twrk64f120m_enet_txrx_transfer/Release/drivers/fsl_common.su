@@ -1,0 +1,3 @@
+fsl_common.c:116:7:SDK_Malloc	16	static
+fsl_common.c:142:6:SDK_Free	0	static
+fsl_common.c:206:6:SDK_DelayAtLeastUs	8	static

@@ -1,0 +1,3 @@
+int OnTraceStart(void) {
+	return 0;
+}

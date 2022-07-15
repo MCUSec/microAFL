@@ -1,0 +1,5 @@
+fsl_debug_console.c:342:10:DbgConsole_ReadOneCharacter	24	static
+fsl_debug_console.c:409:5:DbgConsole_SendData	24	static
+fsl_debug_console.c:476:5:DbgConsole_SendDataReliable	24	static
+fsl_debug_console.c:552:5:DbgConsole_ReadLine	24	static
+fsl_debug_console.c:612:5:DbgConsole_ReadCharacter	24	static

@@ -1,0 +1,3 @@
+fsl_gpio.c:98:6:GPIO_PinInit	0	static
+fsl_gpio.c:129:10:GPIO_PortGetInterruptFlags	0	static
+fsl_gpio.c:145:6:GPIO_PortClearInterruptFlags	0	static

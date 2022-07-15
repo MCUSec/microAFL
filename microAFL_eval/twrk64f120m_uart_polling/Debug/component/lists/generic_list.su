@@ -1,0 +1,15 @@
+fsl_common.h:528:28:DisableGlobalIRQ	16	static
+fsl_common.h:559:24:EnableGlobalIRQ	24	static
+generic_list.c:17:22:LIST_Scan	24	static
+generic_list.c:52:6:LIST_Init	16	static
+generic_list.c:75:15:LIST_GetList	16	static
+generic_list.c:96:15:LIST_AddTail	24	static
+generic_list.c:146:15:LIST_AddHead	24	static
+generic_list.c:195:23:LIST_RemoveHead	24	static
+generic_list.c:239:23:LIST_GetHead	16	static
+generic_list.c:259:23:LIST_GetNext	16	static
+generic_list.c:279:23:LIST_GetPrev	16	static
+generic_list.c:299:15:LIST_RemoveElement	24	static
+generic_list.c:349:15:LIST_AddPrevElement	24	static
+generic_list.c:401:10:LIST_GetSize	16	static
+generic_list.c:420:10:LIST_GetAvailableSize	16	static

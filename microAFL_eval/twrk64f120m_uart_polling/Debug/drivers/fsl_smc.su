@@ -1,0 +1,15 @@
+fsl_common.h:528:28:DisableGlobalIRQ	16	static
+fsl_common.h:559:24:EnableGlobalIRQ	24	static
+fsl_smc.c:68:13:SMC_EnterStopRamFunc	16	static
+fsl_smc.c:99:6:SMC_PreEnterStopModes	8	static
+fsl_smc.c:111:6:SMC_PostExitStopModes	8	static
+fsl_smc.c:122:6:SMC_PreEnterWaitModes	8	static
+fsl_smc.c:134:6:SMC_PostExitWaitModes	8	static
+fsl_smc.c:146:10:SMC_SetPowerModeRun	24	static
+fsl_smc.c:186:10:SMC_SetPowerModeWait	16	static
+fsl_smc.c:204:10:SMC_SetPowerModeStop	24	static
+fsl_smc.c:246:10:SMC_SetPowerModeVlpr	24	static
+fsl_smc.c:284:10:SMC_SetPowerModeVlpw	16	static
+fsl_smc.c:302:10:SMC_SetPowerModeVlps	24	static
+fsl_smc.c:337:10:SMC_SetPowerModeLls	24	static
+fsl_smc.c:399:10:SMC_SetPowerModeVlls	24	static
